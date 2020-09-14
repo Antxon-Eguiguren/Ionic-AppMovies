@@ -24,3 +24,18 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+// Estilos propios
+
+// FONTS
+@import url('https://fonts.googleapis.com/css2?family=Luckiest+Guy&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand&display=swap');
+
+/*
+font-family: 'Luckiest Guy', cursive;
+font-family: 'Patrick Hand', cursive;
+*/
+
+body {
+    font-family: 'Patrick Hand', cursive;
+}
